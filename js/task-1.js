@@ -1,4 +1,4 @@
-"use strict" 
+"use strict";
 
 function isEnoughCapacity(products, containerSize) {
     let total = 0;
